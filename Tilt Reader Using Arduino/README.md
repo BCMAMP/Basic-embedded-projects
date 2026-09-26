@@ -3,3 +3,5 @@ Components:
 1. Arduino
 2. LCD display 16x2 i2c
 3. Tilt sensor
+
+Video Simulation : https://youtu.be/ZN9G35-zXZI
